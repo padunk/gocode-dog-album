@@ -1,6 +1,6 @@
 <script>
 	import Album from './Album.svelte'
-	let title = 'My Favorite Dog Album'
+	let title = 'My Dog Album'
 </script>
 
 <main>
